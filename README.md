@@ -1,0 +1,5 @@
+- 👋 Hi, I’m leela
+- 👀 I’m interested in Automation testing,Web scrapping,Process Automation(Anything on Auotmation)
+- 🌱 I’m currently learning DS ALGOS and Microsoft (Power APPS)
+- 💞️ I’m looking to collaborate on Improving Efficiency.
+- 📫 How to reach me leela@makenotion.com
